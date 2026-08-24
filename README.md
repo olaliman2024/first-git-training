@@ -1,1 +1,1 @@
-# first-git-training from Liman
+# first-git-training from Liman today
